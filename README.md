@@ -1,19 +1,15 @@
 - 👋 Hi, I’m @finwhiz
 - 👀 I’m interested in ...
-    Stocks and Investing
-    FinTech
-    Startups
+    Stocks and Investing, FinTech, Startups and VC, Crypto Assets with Actual Use Cases != BTC
 - 🌱 I’m currently learning ...
-    Solidity
-    Vue
-    GraphQL
+    Solidity and Vue
 - 💞️ I’m looking to collaborate on ...
-    Blockchain based games or stories
-    Decentralized trading
-    Anything disruptive startup in the FinTech space
+    Blockchain based storytelling startups in the FinTech space
 - 📫 How to reach me ...
-    Email: mjwhite4@gmail.com
+    Instagram: @therealmattwhite
     Twitter: @mattwhite_
+    Email: mjwhite4@gmail.com
+    
 
 <!---
 finwhiz/finwhiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
