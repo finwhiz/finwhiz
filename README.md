@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @finwhiz
 - 👀 I’m interested in ...
-    Stocks and Investing, FinTech, Startups and VC, Crypto Assets with Actual Use Cases != BTC
+    WealthTech apps for financial advisory firms
 - 🌱 I’m currently learning ...
-    Solidity and Vue
+    AWS Ec2
 - 💞️ I’m looking to collaborate on ...
     Blockchain based storytelling startups in the FinTech space
 - 📫 How to reach me ...
-    Instagram: @therealmattwhite
     Twitter: @mattwhite_
-    Email: mjwhite4@gmail.com
+    Email: matt@storefrontco.com
     
 
 <!---
