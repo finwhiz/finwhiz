@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @finwhiz
 - 👀 I’m interested in ...
-    WealthTech apps for financial advisory firms
+    The future of work
 - 🌱 I’m currently learning ...
-    AWS Ec2
+    Onyx
 - 💞️ I’m looking to collaborate on ...
-    Blockchain based storytelling startups in the FinTech space
+    SOP automation
 - 📫 How to reach me ...
     Twitter: @mattwhite_
     Email: matt@storefrontco.com
